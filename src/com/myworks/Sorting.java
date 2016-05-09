@@ -9,15 +9,15 @@ public class Sorting {
 		// TODO Auto-generated method stub
 
 		String s1="abc";
-		String s2 = new String("abc");
-		System.out.println(s1.equals(s2));
+		//String s2 = new String("abc");
+		//System.out.println(s1.equals(s2));
 		
-		/*Sorting sort = new Sorting();
+		Sorting sort = new Sorting();
 		int[] input = {6,7,4,1,3,8,2,5};
 		sort.bubbleSort(input);
 		sort.selectionSort(input);
 		sort.insertionSort(input);
-		sort.mergeSort(input);*/
+		sort.mergeSort(input);
 	}
 	
 	
